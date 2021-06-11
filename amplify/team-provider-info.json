@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-travelbuddyapj-dev-134355-authRole",
+            "UnauthRoleArn": "arn:aws:iam::891048848327:role/amplify-travelbuddyapj-dev-134355-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::891048848327:role/amplify-travelbuddyapj-dev-134355-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-travelbuddyapj-dev-134355-deployment",
+            "UnauthRoleName": "amplify-travelbuddyapj-dev-134355-unauthRole",
+            "StackName": "amplify-travelbuddyapj-dev-134355",
+            "StackId": "arn:aws:cloudformation:us-east-1:891048848327:stack/amplify-travelbuddyapj-dev-134355/05748260-ca78-11eb-9e5d-0e08ce19eddf",
+            "AmplifyAppId": "d3pybv5gvy3nx5"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3pybv5gvy3nx5",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
